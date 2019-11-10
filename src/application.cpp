@@ -328,14 +328,14 @@ void WalletApplication::disconnectedFromWalletd()
 
 void WalletApplication::detached()
 {
-    splashMsg(tr("Bytecoin GUI is in detached state.\nYou can open a wallet file, create a new one, or connect to remote walletd daemon."));
+    splashMsg(tr("GoldenDoge GUI is in detached state.\nYou can open a wallet file, create a new one, or connect to remote walletd daemon."));
     if (m_mainWindow)
         m_mainWindow->setDisconnectedState();
 }
 
 void WalletApplication::firstRun()
 {
-    splashMsg(tr("Looks like this is your first run of the new Bytecoin Wallet GUI. It is in detached state now.\nYou can open a wallet file, create a new one, or connect to remote walletd daemon."));
+    splashMsg(tr("Looks like this is your first run of the new GoldenDoge Wallet GUI. It is in detached state now.\nYou can open a wallet file, create a new one, or connect to remote walletd daemon."));
 }
 
 void WalletApplication::daemonErrorOccurred(QProcess::ProcessError error, QString errorString)

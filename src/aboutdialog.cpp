@@ -1,4 +1,4 @@
-// Copyright (c) 2015-2018, The Bytecoin developers.
+// Copyright (c) 2015-2018, The Bytecoin developers. 2019 GoldenDoge developer
 // Licensed under the GNU Lesser General Public License. See LICENSE for details.
 
 #include <QDateTime>
