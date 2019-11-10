@@ -1,6 +1,7 @@
 # GoldenGoge-gui
 GoldenDoge gui wallet 🐶
 
+if you don't want to compile it you can download compiled binaries [here](https://github.com/GoldenDoge/GoldenDoge-gui/releases)
 ## About
 
 Welcome to the repository of GoldenDoge gui wallet. Here you will find source code, instructions and wiki resources.
